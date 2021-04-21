@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+# presento - the boostrap template
+/Presento
+
 # testing
 /coverage
 
