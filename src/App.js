@@ -26,7 +26,7 @@ class App extends Component {
         <Footer />
         {/* WhatsApp icon */}
           <a
-            href="https://wa.me/2348022901866"
+            href="https://wa.me/2348036645879"
             class="whatsapp_float"
             target="_blank"
             rel="noopener noreferrer"
