@@ -22,20 +22,18 @@ export default class Footer extends Component {
                             <div className="col-lg-2 col-md-6 footer-links">
                                 <h4>Useful Links</h4>
                                 <ul>
-                                <li><i className="bx bx-chevron-right" /> <a href="#">Home</a></li>
-                                <li><i className="bx bx-chevron-right" /> <a href="#">About us</a></li>
-                                <li><i className="bx bx-chevron-right" /> <a href="#">Projects</a></li>
-                                <li><i className="bx bx-chevron-right" /> <a href="#">Partnership</a></li>
+                                <li><i className="bx bx-chevron-right" /> <Link to="/">Home</Link></li>
+                                <li><i className="bx bx-chevron-right" /> <Link to="about">About us</Link></li>
+                                <li><i className="bx bx-chevron-right" /> <Link to="/projects">Projects</Link></li>
+                                <li><i className="bx bx-chevron-right" /> <Link to="/events">Events</Link></li>
                                 
                                 </ul>
                             </div>
                             <div className="col-lg-3 col-md-6 footer-links">
-                                <h4>Resources</h4>
+                                <h4>Partnership</h4>
                                 <ul>
-                                <li><i className="bx bx-chevron-right" /> <a href="#">Media</a></li>
-                                <li><i className="bx bx-chevron-right" /> <a href="#">Success Story</a></li>
-                                <li><i className="bx bx-chevron-right" /> <a href="#">FAQs</a></li>
-                                <li><i className="bx bx-chevron-right" /> <a href="#">Careers</a></li>
+                                <li><i className="bx bx-chevron-right" /> <a href="https://www.winelightanalytical.com/" target="_blank">Winelight</a></li>
+                                <li><i className="bx bx-chevron-right" /> <a href="#">Bisbod Ventures</a></li>
                                 </ul>
                             </div>
                             <div className="col-lg-3 col-md-6 footer-contact">
@@ -61,7 +59,6 @@ export default class Footer extends Component {
                         <a href="#" className="twitter"><i className="bx bxl-twitter" /></a>
                         <a href="#" className="facebook"><i className="bx bxl-facebook" /></a>
                         <a href="#" className="instagram"><i className="bx bxl-instagram" /></a>
-                        <a href="#" className="google-plus"><i className="bx bxl-skype" /></a>
                         <a href="#" className="linkedin"><i className="bx bxl-linkedin" /></a>
                     </div>
                     </div>
