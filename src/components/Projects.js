@@ -65,6 +65,89 @@ export default class Projects extends Component {
                                 </div>
                             </div>
                             <hr />
+                             <h2 className="entry-title">
+                                <a href="#">Other List of ONOF Interventions</a>
+                            </h2>
+                            <div>
+                                <table class="table table-striped">
+                                    <thead>
+                                        <tr>
+                                        <th scope="col">SN</th>
+                                        <th scope="col">Beneficiary</th>
+                                        <th scope="col">Description</th>
+                                        <th scope="col">Date</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        <tr>
+                                        <th scope="row">1</th>
+                                        <td>SONARIWO SARAH REMILEKUN</td>
+                                        <td>BUSINESS EMPOWERMENT </td>
+                                        <td>Jun-16</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">2</th>
+                                        <td>ST BARNABAS ANGLICAN PRIMARY SCHOOL, ILISAN </td>
+                                        <td>DONATION OF MODERN BLOCK OF THREE (3) CLASSSROOMS</td>
+                                        <td>Jun-17</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">3</th>
+                                        <td>ONWURAH UGOCHUKWU</td>
+                                        <td>PAYMENT OF HOSPITAL BILLS</td>
+                                        <td>Sep-18</td>
+                                        </tr>
+                                         <tr>
+                                        <th scope="row">4</th>
+                                        <td>ADEOLA AWOTUBO</td>
+                                        <td>EDUCATION SCHOLARSHIP </td>
+                                        <td>Sep-19</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">5</th>
+                                        <td>ODUNAYO FAROYE</td>
+                                        <td>PART PAYMENT OF HIP SURGERY EXPENSES</td>
+                                        <td>Aug-20</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">6</th>
+                                        <td>TITILAYO AMOKE SOTOYE</td>
+                                        <td>ASSISTANCE WITH DAUGHTER'S UNIVERSITY FINAL YEAR PROJECT EXPENSES</td>
+                                        <td>Sep-20</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">7</th>
+                                        <td>MATHILDA UMIAH</td>
+                                        <td>ASSISTANCE WITH HOSPITAL BILL PAYMENT</td>
+                                        <td>Sep-20</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">8</th>
+                                        <td>FEDERAL MEDICAL CENTRE EBUTE META</td>
+                                        <td>FINANCIAL ASSISTANCE TO INDIGENT PATIENT</td>
+                                        <td>Dec-20</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">9</th>
+                                        <td>BUKOLA ADEDEJI</td>
+                                        <td>BUSINESS EMPOWERMENT </td>
+                                        <td>Sep-20</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">10</th>
+                                        <td>OLA VICTORIA</td>
+                                        <td>MEDICAL EXPENSES SUPPORT</td>
+                                        <td>Mar-21</td>
+                                        </tr>
+                                        <tr>
+                                        <th scope="row">11</th>
+                                        <td>OGUNBANWO OLUFUNMILAYO</td>
+                                        <td>EDUCATION SCHOLARSHIP @ N300,000 PER YEAR</td>
+                                        <td>Jan-21</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
                         </div>    
                     </section>
                 </main>

@@ -11,8 +11,7 @@ export default class Hero extends Component {
                             <div className="col-xl-10">
                                 <div className="row">
                                     <div className="col-xl-5">
-                                        <h1> The Olutobi Nathaniel Oduyale Foundation (ONOF) was inaugurated</h1>
-                                        <h2>.........................</h2>
+                                        <h1> The Olutobi Nathaniel Oduyale Foundation (ONOF) was inaugurated on the ....</h1>
                                         <Link to="/about" className="btn-get-started scrollto">Read more</Link>
                                     </div>
                                 </div>
