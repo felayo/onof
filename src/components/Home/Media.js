@@ -92,7 +92,7 @@ export default class Media extends Component {
                             <div className="portfolio-wrap">
                             <img src="assets/img/portfolio/pro_31.jpg" className="img-fluid" alt="Church support" />
                             <div className="portfolio-info">
-                                <h4>Book Launch</h4>
+                                <h4>Church Support</h4>
                                 <div className="portfolio-links">
                                     <a href="assets/img/portfolio/pro_31.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>                                
                                 </div>
@@ -103,7 +103,7 @@ export default class Media extends Component {
                             <div className="portfolio-wrap">
                             <img src="assets/img/portfolio/pro_32.jpg" className="img-fluid" alt="Church support" />
                             <div className="portfolio-info">
-                                <h4>Book Launch</h4>
+                                <h4>Church Support</h4>
                                 <div className="portfolio-links">
                                     <a href="assets/img/portfolio/pro_32.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>                                
                                 </div>
@@ -114,7 +114,7 @@ export default class Media extends Component {
                             <div className="portfolio-wrap">
                             <img src="assets/img/portfolio/pro_33.jpg" className="img-fluid" alt="Church support" />
                             <div className="portfolio-info">
-                                <h4>Book Launch</h4>
+                                <h4>Church Support</h4>
                                 <div className="portfolio-links">
                                     <a href="assets/img/portfolio/pro_33.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>                                
                                 </div>
