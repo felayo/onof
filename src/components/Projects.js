@@ -30,7 +30,7 @@ export default class Projects extends Component {
                                         <p>
                                             As part of ONOF interventions, Miss Aisha Quadri an SS3 student of Sagamu High School, Sagamu, 
                                             Ogun State who was involved in a collapsed building accident in 2015 which resulted in a loss of a limb, 
-                                            this incident as you can image was such a devastation on this bright young and sprightly lady.
+                                            this incident as you can imagine was such a devastation on this bright young and sprightly lady.
                                         </p>
                                          <p>
                                             Miss Quadri case was taken up by ONOF and she has gone through various 
@@ -49,7 +49,7 @@ export default class Projects extends Component {
                                             </div>
                                         </div>
                                         <p>
-                                            Now she well adapted and fit for free movement on her artificial limb. 
+                                            Now she is well adapted and fit for free movement on her artificial limb. 
                                             We are very confident she is poised to face challenges of normal life.
                                         </p>
                                         <p>
@@ -142,7 +142,7 @@ export default class Projects extends Component {
                                         <tr>
                                         <th scope="row">11</th>
                                         <td>OGUNBANWO OLUFUNMILAYO</td>
-                                        <td>EDUCATION SCHOLARSHIP @ N300,000 PER YEAR</td>
+                                        <td>EDUCATION SCHOLARSHIP</td>
                                         <td>Jan-21</td>
                                         </tr>
                                     </tbody>
