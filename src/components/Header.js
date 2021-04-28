@@ -29,7 +29,7 @@ class Header extends Component {
                     <li className="drop-down"><a href="#">Partnership</a>
                       <ul>
                         <li><a href="https://www.winelightanalytical.com/" target="_blank">Winelight</a></li>
-                        <li><a href="#">Bisbod Ventures</a></li>
+                        <li><a href="https://www.instagram.com/bisbodv/?hl=en" target="_blank">Bisbod Ventures</a></li>
                       </ul>
                     </li>
                     <li><Link to="/contact">Contact us</Link></li>
