@@ -26,7 +26,7 @@ class Header extends Component {
                     <li><Link to="/about">About</Link></li>
                     <li><Link to="/projects">Projects</Link></li>
                     <li><Link to="/events">Events</Link></li>
-                    <li className="drop-down"><a href="#">Partnership</a>
+                    <li className="drop-down"><a href="#">Partners</a>
                       <ul>
                         <li><a href="https://www.winelightanalytical.com/" target="_blank">Winelight</a></li>
                         <li><a href="https://www.instagram.com/bisbodv/?hl=en" target="_blank">Bisbod Ventures</a></li>
