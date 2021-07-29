@@ -9,7 +9,10 @@ export default class Team extends Component {
                   <div className="container" data-aos="fade-up">
                     <div className="section-title">
                       <h2>Team</h2>
-                      <p>ONOF Consists of Well Meaning people that helps in the discharge of day-to-day running of the FOUNDATION and have already given their all to propel the foundation to notable extent.</p>
+                      <p>At ONOF we have a team of enthusiastic and passionate people who are committed to the ideals embodied 
+                          by the foundation. Most of our team members are volunteers from across civil society and they are ably 
+                          led by Mr Tobi & Bisola Oduyale co founders of the ONOF dream.
+                      </p>
                     </div>
                     <div className="row">
                       <div className="col-lg-6 col-md-6 d-flex align-items-stretch">
@@ -42,7 +45,7 @@ export default class Team extends Component {
                           </div>
                           <div className="member-info">
                             <h4>Bisola ODUYALE</h4>
-                            <span>Business Mogul, Co Founder</span>
+                            <span>Co Founder</span>
                           </div>
                         </div>
                       </div>

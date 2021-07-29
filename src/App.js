@@ -21,17 +21,17 @@ class App extends Component {
           <Route path="/about" component={About}/>
           <Route path="/projects" component={Projects}/>
           <Route path="/events" component={Events}/>
-          <Route path="/contact" component={Contact}/>
+          <Route exact path="/contact" component={Contact}/>
         </Switch>
         <Footer />
         {/* WhatsApp icon */}
           <a
             href="https://wa.me/2348036645879"
-            class="whatsapp_float"
+            className="whatsapp_float"
             target="_blank"
             rel="noopener noreferrer"
           >
-            <i class="fa fa-whatsapp whatsapp-icon"></i>
+            <i className="fa fa-whatsapp whatsapp-icon"></i>
           </a>
       </div>
     );

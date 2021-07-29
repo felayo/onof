@@ -12,8 +12,9 @@ export default class Footer extends Component {
                             <div className="col-lg-4 col-md-6 footer-newsletter">
                                 <h4>About Us</h4>
                                 <p>
-                                    OLUTOBI NATHANIEL ODUYALE FOUNDATION knows that our strength lies not only in the words we stand by, 
-                                    but most importantly through the actions of our initiatives.
+                                   ONOF The Olutobi Nathaniel Oduyale Foundation was inaugurated on the 2nd of November 2012 
+                                   to institutionalise the various charity and philanthropic interventions which Mr Tobi Oduyale 
+                                   had engaged in on a personal note over the years.
                                     
                                 </p>
                                 <Link to="/about" className="btn-get-started scrollto">Read more</Link>......
@@ -39,11 +40,11 @@ export default class Footer extends Component {
                             <div className="col-lg-3 col-md-6 footer-contact">
                                 <h3>Contact<span>.</span></h3>
                                 <p>
-                                Winelight Analytical Systems Ltd<br />
+                                3, Adebayo Mokuolu, Winelight House<br />
                                 Anthony Village<br />
                                 Lagos <br /><br />
                                 <strong>Phone:</strong> (+234) 802 290 1866<br />
-                                <strong>Email:</strong> onof.foundation@gmail.com <br />
+                                <strong>Email:</strong> info@onof.org <br />
                                 </p>
                             </div>
                         </div>

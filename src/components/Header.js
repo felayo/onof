@@ -35,7 +35,7 @@ class Header extends Component {
                     <li><Link to="/contact">Contact us</Link></li>
                   </ul>
                 </nav>
-                {/*<Link to="/" className="get-started-btn scrollto">Donate now</Link> */}
+                <Link to="/" className="get-started-btn scrollto">Donate now</Link>
               </div>
             </div>
           </div>

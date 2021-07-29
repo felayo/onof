@@ -1,5 +1,7 @@
 import Hero from "./Hero";
 import Media from "./Media";
+import Newsletter from "./Newsletter";
+import Testimonials from "./Testimonials";
 
 function Home() {
   return (
@@ -8,6 +10,8 @@ function Home() {
       <main id="main">
         <Media />
       </main>
+      <Newsletter />
+      <Testimonials />
     </div>
   );
 }
