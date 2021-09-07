@@ -10,8 +10,9 @@ export default class Hero extends Component {
                         <div className="row justify-content-center">
                             <div className="col-xl-10">
                                 <div className="row">
-                                    <div className="col-xl-5">
-                                        <h1> The Olutobi Nathaniel Oduyale Foundation (ONOF) was inaugurated on the ....</h1>
+                                    <div className="col-xl-7">
+                                        <h1> The Olutobi Nathaniel Oduyale Foundation (ONOF) was inaugurated on the 2nd of 
+                                            November 2012 to institutionalise the various charity  ....</h1>
                                         <Link to="/about" className="btn-get-started scrollto">Read more</Link>
                                     </div>
                                 </div>

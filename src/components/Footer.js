@@ -31,7 +31,7 @@ export default class Footer extends Component {
                                 </ul>
                             </div>
                             <div className="col-lg-3 col-md-6 footer-links">
-                                <h4>Partners</h4>
+                                <h4>Partnership</h4>
                                 <ul>
                                 <li><i className="bx bx-chevron-right" /> <a href="https://www.winelightanalytical.com/" target="_blank">Winelight</a></li>
                                 <li><i className="bx bx-chevron-right" /> <a href="https://www.instagram.com/bisbodv/?hl=en" target="_blank">Bisbod Ventures</a></li>
