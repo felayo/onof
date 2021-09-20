@@ -26,10 +26,17 @@ class Header extends Component {
                     <li><Link to="/about">About</Link></li>
                     <li><Link to="/projects">Projects</Link></li>
                     <li><Link to="/events">Events</Link></li>
-                    <li className="drop-down"><a href="#">Partners</a>
+                    <li className="drop-down"><a href="#">Partnership</a>
                       <ul>
-                        <li><a href="https://www.winelightanalytical.com/" target="_blank">Winelight</a></li>
-                        <li><a href="https://www.instagram.com/bisbodv/?hl=en" target="_blank">Bisbod Ventures</a></li>
+                        <li><Link to="/joinus">Be a Part</Link></li>
+                        <li><a href="#">Give Online</a></li>
+                        <li class="drop-down"><a href="#">Partners</a>
+                          <ul>
+                            <li><a href="https://www.winelightanalytical.com/" target="_blank">Winelight</a></li>
+                            <li><a href="https://www.instagram.com/bisbodv/?hl=en" target="_blank">Bisbod Ventures</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="#">Volunteers</a></li>
                       </ul>
                     </li>
                     <li><Link to="/contact">Contact us</Link></li>

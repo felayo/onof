@@ -8,6 +8,9 @@ import About from "./components/About/About";
 import Projects from "./components/Projects";
 import Events from "./components/Events";
 import Contact from "./components/Contact";
+import JoinUs from "./components/Partnership/beAPart";
+
+
 import "./App.css";
 
 
@@ -22,6 +25,7 @@ class App extends Component {
           <Route path="/projects" component={Projects}/>
           <Route path="/events" component={Events}/>
           <Route exact path="/contact" component={Contact}/>
+          <Route path="/joinus" component={JoinUs} />
         </Switch>
         <Footer />
         {/* WhatsApp icon */}

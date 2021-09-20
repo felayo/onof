@@ -62,7 +62,7 @@ const Contact = () => {
                             <div className="info-box mt-4">
                                 <i className="bx bx-envelope" />
                                 <h3>Email Us</h3>
-                                <p>onof.foundation@gmail.com</p>
+                                <p>info@onoffoundation.org</p>
                             </div>
                             </div>
                             <div className="col-md-6">

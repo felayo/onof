@@ -44,7 +44,7 @@ export default class Footer extends Component {
                                 Anthony Village<br />
                                 Lagos <br /><br />
                                 <strong>Phone:</strong> (+234) 802 290 1866<br />
-                                <strong>Email:</strong> info@onof.org <br />
+                                <strong>Email:</strong> info@onoffoundation.org <br />
                                 </p>
                             </div>
                         </div>

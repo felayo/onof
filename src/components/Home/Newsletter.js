@@ -20,7 +20,7 @@ const Newsletter = () => {
                     <p className="text-light">Subscribe to our newsletter for up to date information on our activities & events</p>
                     <form action="#" method="Post">
                         <input type="text" style={style} className='newsletter' name="text" placeholder="Enter Your Email Address" />
-                        <button type="button" className="ml-2 mb-1 btn btn-light">Subscribe</button>
+                        <button type="button" className="ml-2 mb-1 btn btn-primary">Subscribe</button>
                     </form>
                 </div>
             </section>
