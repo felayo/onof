@@ -11,8 +11,9 @@ export default class Hero extends Component {
                             <div className="col-xl-10">
                                 <div className="row">
                                     <div className="col-xl-7">
-                                        <h1> The Olutobi Nathaniel Oduyale Foundation (ONOF) was inaugurated on the 2nd of 
-                                            November 2012 to institutionalise the various charity  ....</h1>
+                                        <h1> The Olutobi Nathaniel Oduyale Foundation (ONOF), A legacy of service to Community
+                                             and God.
+                                        </h1>
                                         <Link to="/about" className="btn-get-started scrollto">Read more</Link>
                                     </div>
                                 </div>

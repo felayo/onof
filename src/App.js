@@ -25,7 +25,7 @@ class App extends Component {
           <Route path="/projects" component={Projects}/>
           <Route path="/events" component={Events}/>
           <Route exact path="/contact" component={Contact}/>
-          <Route path="/joinus" component={JoinUs} />
+          <Route path="/join_us" component={JoinUs} />
         </Switch>
         <Footer />
         {/* WhatsApp icon */}
