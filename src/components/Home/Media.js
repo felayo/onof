@@ -15,14 +15,14 @@ export default class Media extends Component {
                                 <li data-filter="*" class="filter-active">All</li>
                                 <li data-filter=".filter-book">Book Launch</li>
                                 <li data-filter=".filter-aisha">Aisha</li>
-                                <li data-filter=".filter-church">Church Support</li>
+                                <li data-filter=".filter-school">Block of 3 Classroom</li>
                                 </ul>
                             </div>
                         </div>
                         <div className="row portfolio-container" data-aos="fade-up" data-aos-delay={200}>
                         <div className="col-lg-4 col-md-6 portfolio-item filter-book">
                             <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/pro_11.jpg" className="img-fluid" alt="Church support" />
+                            <img src="assets/img/portfolio/pro_11.jpg" className="img-fluid" alt="Book launch" />
                             <div className="portfolio-info">
                                 <h4>Book Launch</h4>
                                 <div className="portfolio-links">
@@ -88,35 +88,37 @@ export default class Media extends Component {
                             </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 portfolio-item filter-church">
+                        </div>
+                        <div className="row portfolio-container" data-aos="fade-up" data-aos-delay={200}>
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-school">
                             <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/pro_31.jpg" className="img-fluid" alt="Church support" />
+                            <img src="assets/img/portfolio/sch_1.jpeg" className="img-fluid" alt="school_project" />
                             <div className="portfolio-info">
-                                <h4>Church Support</h4>
+                                <h4>Block of 3 Classroom</h4>
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/pro_31.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>                                
+                                    <a href="assets/img/portfolio/sch_1.jpeg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>
                                 </div>
                             </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 portfolio-item filter-church">
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-school">
                             <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/pro_32.jpg" className="img-fluid" alt="Church support" />
+                            <img src="assets/img/portfolio/sch_4.jpeg" className="img-fluid" alt="school_project" />
                             <div className="portfolio-info">
-                                <h4>Church Support</h4>
+                                <h4>Block of 3 Classroom</h4>
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/pro_32.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>                                
+                                    <a href="assets/img/portfolio/sch_4.jpeg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>
                                 </div>
                             </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6 portfolio-item filter-church">
+                        <div className="col-lg-4 col-md-6 portfolio-item filter-school">
                             <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/pro_33.jpg" className="img-fluid" alt="Church support" />
+                            <img src="assets/img/portfolio/sch_2.jpeg" className="img-fluid" alt="school_project" />
                             <div className="portfolio-info">
-                                <h4>Church Support</h4>
+                                <h4>Block of 3 Classroom</h4>
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/pro_33.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>                                
+                                    <a href="assets/img/portfolio/sch_2.jpeg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>
                                 </div>
                             </div>
                             </div>

@@ -18,7 +18,7 @@ export default class Testimonials extends Component {
                                 <div className="testimonial-item">
                                 <img src="assets/img/team/team-1.jpg" className="testimonial-img" alt="testifier" />
                                 <h3>Ayorinde</h3>
-                                <h4>Commissioner of Education, Lagos</h4>
+                                <h4>Developer</h4>
                                 <p>
                                     <i className="bx bxs-quote-alt-left quote-icon-left" />
                                     Let me use the opportunity to thank my dear Brother Olutobi Nathaniel, he's done a fantastic job to put all this together
