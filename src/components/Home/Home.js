@@ -1,7 +1,7 @@
 import Hero from "./Hero";
 import Media from "./Media";
-import Newsletter from "./Newsletter";
-import Testimonials from "./Testimonials";
+// import Newsletter from "./Newsletter";
+// import Testimonials from "./Testimonials";
 import Event from './Event';
 
 function Home() {
@@ -12,8 +12,10 @@ function Home() {
         <Event />
         <Media />
       </main>
+      {/*
       <Newsletter />
       <Testimonials />
+      */}
     </div>
   );
 }

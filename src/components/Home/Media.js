@@ -13,7 +13,7 @@ export default class Media extends Component {
                             <div class="col-lg-12 d-flex justify-content-center">
                                 <ul id="portfolio-flters">
                                 <li data-filter="*" class="filter-active">All</li>
-                                <li data-filter=".filter-book">Book Launch</li>
+                                <li data-filter=".filter-book">Conference Room</li>
                                 <li data-filter=".filter-aisha">Aisha</li>
                                 <li data-filter=".filter-school">Block of 3 Classroom</li>
                                 </ul>
@@ -22,33 +22,33 @@ export default class Media extends Component {
                         <div className="row portfolio-container" data-aos="fade-up" data-aos-delay={200}>
                         <div className="col-lg-4 col-md-6 portfolio-item filter-book">
                             <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/pro_11.jpg" className="img-fluid" alt="Book launch" />
+                            <img src="assets/img/portfolio/1_conference_room.jpg" className="img-fluid" alt="Book launch" />
                             <div className="portfolio-info">
-                                <h4>Book Launch</h4>
+                                <h4>Conference Room @ St Barnabas</h4>
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/pro_11.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>                                
+                                    <a href="assets/img/portfolio/1_conference_room.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>                                
                                 </div>
                             </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 portfolio-item filter-book">
                             <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/pro_12.jpg" className="img-fluid" alt />
+                            <img src="assets/img/portfolio/2_conference.jpg" className="img-fluid" alt />
                             <div className="portfolio-info">
-                                <h4>Book Launch</h4>
+                                <h4>Conference Room @ St Barnabas</h4>
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/pro_12.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>
+                                    <a href="assets/img/portfolio/2_conference.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>
                                 </div>
                             </div>
                             </div>
                         </div>
                         <div className="col-lg-4 col-md-6 portfolio-item filter-book">
                             <div className="portfolio-wrap">
-                            <img src="assets/img/portfolio/pro_13.jpg" className="img-fluid" alt />
+                            <img src="assets/img/portfolio/3_conference.jpg" className="img-fluid" alt />
                             <div className="portfolio-info">
-                                <h4>Book Launch</h4>
+                                <h4>Conference Room @ St Barnabas</h4>
                                 <div className="portfolio-links">
-                                    <a href="assets/img/portfolio/pro_13.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>
+                                    <a href="assets/img/portfolio/3_conference.jpg" data-gall="portfolioGallery" className="venobox" title="click to view"><i className="bx bx-plus" /></a>
                                 </div>
                             </div>
                             </div>
